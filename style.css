@@ -1,0 +1,28 @@
+html{
+    background-color: #1D1E22;
+  }
+  #main{
+    color:#fff;
+    font-size: 2rem;
+    width: 500px;
+  }
+  #timeIn{
+    background-color: #1D1E22;
+    color:#fff;
+    font-size: 1.5em;
+    border:1px solid #fff;
+    padding:10px;
+    border-radius: 10px;
+  }
+  #calcButton{
+    color:#fff;
+      height:2em;
+      width:100px;
+      background-color: #393a3f;
+  }
+  #example{
+      color:#fff;
+      font-size: 1.5em;
+      margin-left: 2em;
+  }
+
